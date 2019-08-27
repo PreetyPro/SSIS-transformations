@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS transformations", "SSIS transformations\SSIS transformations.dtproj", "{6ECD2D7A-9EB0-4D76-8B8A-339AA1000B3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ECD2D7A-9EB0-4D76-8B8A-339AA1000B3B}.Development|Default.ActiveCfg = Development
+		{6ECD2D7A-9EB0-4D76-8B8A-339AA1000B3B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAF62420-F706-424C-98B3-B463A52766B7}
+	EndGlobalSection
+EndGlobal
